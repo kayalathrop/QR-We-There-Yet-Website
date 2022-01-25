@@ -6,7 +6,7 @@ p{
     margin: auto;
     padding: 10px;
     text-align: center;
-    margin-top: -100px;
+    margin-top: -50px;
 }
 img{
     display: block;
@@ -18,9 +18,21 @@ img{
 }
 a {
     display: block;
+    color: 	
+    rgb(28,117,188);
     text-decoration: none;
-    border-color: blue;
-    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+a:hover {
+    display: block;
+    color: 	
+    rgb(172, 195, 214);
+    text-decoration: none;
     margin-left: auto;
     margin-right: auto;
     width: 150px;
