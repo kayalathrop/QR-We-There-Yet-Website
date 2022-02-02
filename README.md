@@ -1,1 +1,0 @@
-# QR-We-There-Yet-Website

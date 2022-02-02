@@ -43,7 +43,9 @@ img{
 }
 a {
     position: absolute;
-    font-family: Helvetica, sans-serif;
+    font-family: cooper-black-std,serif;
+    font-weight: 400;
+    font-style: normal;
     top: 30px;
     left: -100px;
     color: 	
@@ -51,11 +53,13 @@ a {
     text-decoration: none;
     font-size: 20px;
     text-align: center;
-    font-family: "Cooper Black", serif;
+  
 }
 a:hover {
     position: absolute;
-    font-family: Helvetica, sans-serif;
+    font-family: cooper-black-std,serif;
+    font-weight: 400;
+    font-style: normal;
     top: 30px;
     left: -100px;
     color: 	
@@ -63,7 +67,7 @@ a:hover {
     text-decoration: none;
     font-size: 20px;
     text-align: center;
-    font-family: "Cooper Black", serif;
+ 
 }
 #HCB_comment_box .submit {
     background:none; /* Clear twitter bootstrap style. */
@@ -79,5 +83,8 @@ a:hover {
       font-family: Helvetica, sans-serif;
       line-height: 21px;
       font-weight:400;
+  }
+  div {
+      position: relative;
   }
    
