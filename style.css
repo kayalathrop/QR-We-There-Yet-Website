@@ -1,5 +1,6 @@
 body {
     position: relative;
+    background-color:rgb(251, 244, 235); 
 }
 p{
     width: 560px;
@@ -7,6 +8,9 @@ p{
     padding: 10px;
     text-align: center;
     margin-top: -50px;
+    font-family: Helvetica, sans-serif;
+    line-height: 21px;
+    font-weight:400;
 }
 img{
     display: block;
