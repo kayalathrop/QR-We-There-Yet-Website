@@ -1,0 +1,90 @@
+
+  
+h1 {
+    color:  rgb(28,117,188);
+    font-family: cooper-black-std,serif;
+font-weight: 400;
+font-style: normal;
+  }
+    
+h2 {
+    color:  rgb(28,117,188);
+    font-family: cooper-black-std,serif;
+font-weight: 400;
+font-style: normal;
+    color:  rgb(28,117,188);
+  }
+h6 {
+    font-family: Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+}
+h4 {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+}
+body {
+    position: relative;
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    margin-top: 0px;
+    background-color:rgb(251, 244, 235); 
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding: 30px;
+    padding-bottom: 0px;
+}
+a {
+    position: absolute;
+    font-family: cooper-black-std,serif;
+    font-weight: 400;
+    font-style: normal;
+    top: 30px;
+    left: -100px;
+    color: 	
+    rgb(28,117,188);
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+  
+}
+a:hover {
+    position: absolute;
+    font-family: cooper-black-std,serif;
+    font-weight: 400;
+    font-style: normal;
+    top: 30px;
+    left: -100px;
+    color: 	
+    rgb(172, 195, 214);
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+ 
+}
+#HCB_comment_box .submit {
+    background:none; /* Clear twitter bootstrap style. */
+    background-color:   rgb(28,117,188);
+    border:1px solid    rgb(28,117,188);
+    color: white;
+    font-family: Helvetica, sans-serif;
+  }
+  p {
+    position: relative;
+    margin: auto;
+      width: 400px;
+      font-family: Helvetica, sans-serif;
+      line-height: 21px;
+      font-weight:400;
+  }
+  div {
+      position: relative;
+  }
+   
