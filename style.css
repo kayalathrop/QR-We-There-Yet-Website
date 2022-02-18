@@ -1,9 +1,10 @@
 body {
+    width: auto;
     position: relative;
     background-color:rgb(251, 244, 235); 
 }
 p{
-    width: 200px;
+    width: 50%;
     margin: auto;
     padding: 10px;
     text-align: center;
@@ -16,7 +17,7 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 50%;
     height: 40%;
     padding: 0px;
 }
@@ -33,7 +34,7 @@ a {
     color: 	
     rgb(28,117,188);
     text-decoration: none;
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
   
 }
@@ -48,7 +49,7 @@ a:hover {
     color: 	
     rgb(172, 195, 214);
     text-decoration: none;
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
  
 }
