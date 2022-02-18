@@ -79,6 +79,7 @@ a:hover {
   p {
     position: relative;
     margin: auto;
+    width: 100%;
       font-family: Helvetica, sans-serif;
       line-height: 21px;
       font-weight:400;
