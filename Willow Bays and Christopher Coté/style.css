@@ -51,7 +51,7 @@ a {
     color: 	
     rgb(28,117,188);
     text-decoration: none;
-    font-size: 20px;
+    font-size: 12px;
     text-align: center;
   
 }
@@ -65,7 +65,7 @@ a:hover {
     color: 	
     rgb(172, 195, 214);
     text-decoration: none;
-    font-size: 20px;
+    font-size: 12px;
     text-align: center;
  
 }
@@ -79,7 +79,6 @@ a:hover {
   p {
     position: relative;
     margin: auto;
-    width: 50%;
       font-family: Helvetica, sans-serif;
       line-height: 21px;
       font-weight:400;
